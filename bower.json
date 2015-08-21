@@ -1,0 +1,19 @@
+{
+  "name": "loadCSV",
+  "version": "0.0.0",
+  "authors": [
+    "Daniel Susaimanickam <Daniel.Susaimanickam@sandstone.com.au>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "requirejs": "~2.1.20"
+  },
+  "dependencies": {
+    "angular": "~1.4.4",
+    "underscore": "~1.8.3",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "~0.2.15",
+    "angular-ui-bootstrap-bower": "~0.13.3",
+    "sass-bootstrap": "~3.0.2"
+  }
+}
